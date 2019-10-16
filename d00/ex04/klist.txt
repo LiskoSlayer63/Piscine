@@ -1,0 +1,6 @@
+Credentials cache: API:FE0A448B-9CD0-456D-A612-FCDA919FFA1F
+        Principal: mahola@HIVE.FI
+
+  Issued                Expires               Principal
+Aug 12 14:28:43 2019  Aug 13 00:28:43 2019  krbtgt/HIVE.FI@HIVE.FI
+Aug 12 14:39:16 2019  Aug 13 00:28:43 2019  host/vogsphere.hive.fi@HIVE.FI
